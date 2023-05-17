@@ -1,4 +1,5 @@
-## Olá dev, Daniel Rabello Aqui!
+### Olá, eu sou Daniel Queiroz Rabello! 👋
+Sou um entusiasta da programação, apaixonado por explorar os limites da tecnologia e criar soluções inovadoras. Atualmente, estou focado em me aprimorar como desenvolvedor FullStack, com especialização em Java. Também tenho grande interesse no desenvolvimento front-end e back-end.
 
 <div>
   
