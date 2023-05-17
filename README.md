@@ -1,5 +1,11 @@
-### Olá, eu sou Daniel Queiroz Rabello! 👋
-Sou um entusiasta da programação, apaixonado por explorar os limites da tecnologia e criar soluções inovadoras. Atualmente, estou focado em me aprimorar como desenvolvedor FullStack, com especialização em Java. Também tenho grande interesse no desenvolvimento front-end e back-end.
+### Olá, eu sou Daniel Queiroz Rabello! 👋  
+ Sou um entusiasta da programação, apaixonado por explorar os limites da tecnologia e criar soluções inovadoras. Atualmente, estou focado em me aprimorar como desenvolvedor FullStack, com especialização em Java. Também tenho grande interesse no desenvolvimento front-end e back-end.
+
+🚀 Além disso, sou um aluno dedicado do PROA, um programa reconhecido que tem como objetivo preparar jovens talentos para o mercado de trabalho na área de tecnologia.
+
+💡 Sempre em busca de novos desafios, estou aberto a colaborar em projetos interessantes e construir soluções impactantes. Tenho habilidades de comunicação sólidas e uma mentalidade colaborativa, o que me permite trabalhar efetivamente em equipe.
+
+📫 Se você está procurando um desenvolvedor comprometido, apaixonado por aprender e crescer profissionalmente, estou pronto para enfrentar desafios estimulantes. Fique à vontade para entrar em contato comigo por meio desta plataforma ou pelo meu e-mail.
 
 <div>
   
