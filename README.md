@@ -1,4 +1,7 @@
 ### Olá, eu sou Daniel Queiroz Rabello! 👋  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Daniel,+Seja+Bem+Vindo!)](https://git.io/typing-svg)
+
  Sou um entusiasta da programação, apaixonado por explorar os limites da tecnologia e criar soluções inovadoras. Atualmente, estou focado em me aprimorar como desenvolvedor FullStack, com especialização em Java. Também tenho grande interesse no desenvolvimento front-end e back-end.
 
 🚀 Além disso, sou um aluno dedicado do PROA, um programa reconhecido que tem como objetivo preparar jovens talentos para o mercado de trabalho na área de tecnologia.
@@ -9,13 +12,12 @@
 
 ### :small_orange_diamond: Neste Git :octocat:
 <a href="https://github.com/Daniel-Rabello">
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Rabello&show_icons=true&theme=radical&locale=pt-BR&include_all_commits=true&count_private=true&hide=contribs" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Rabello&theme=radical&locale=pt-BR&layout=compact" />
-</p>
-</a>
+
+<div align="center">
+  <a href="https://github.com/Daniel-Rabello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Rabello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Rabello&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <br>
 
