@@ -7,11 +7,6 @@
 
 📫 Se você está procurando um desenvolvedor comprometido, apaixonado por aprender e crescer profissionalmente, estou pronto para enfrentar desafios estimulantes. Fique à vontade para entrar em contato comigo por meio desta plataforma ou pelo meu e-mail.
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Rabello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Rabello&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 <br>
 
 <div  align="center"> 
