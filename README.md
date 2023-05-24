@@ -7,6 +7,16 @@
 
 📫 Se você está procurando um desenvolvedor comprometido, apaixonado por aprender e crescer profissionalmente, estou pronto para enfrentar desafios estimulantes. Fique à vontade para entrar em contato comigo por meio desta plataforma ou pelo meu e-mail.
 
+### :small_orange_diamond: Neste Git :octocat:
+<a href="https://github.com/Daniel-Rabello">
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Rabello&show_icons=true&theme=radical&locale=pt-BR&include_all_commits=true&count_private=true&hide=contribs" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Rabello&theme=radical&locale=pt-BR&layout=compact" />
+</p>
+</a>
+
 <br>
 
 <div  align="center"> 
